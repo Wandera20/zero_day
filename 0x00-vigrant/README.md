@@ -1,1 +1,1 @@
-Ubuntu Virtual Machine
+virtual machine
